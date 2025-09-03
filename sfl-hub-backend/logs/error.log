@@ -1,0 +1,90 @@
+2025-05-05 04:21:54 AM error: Unhandled Rejection at: [object Promise], reason: ReferenceError: requestId is not defined
+2025-05-06 01:19:15 AM error: Failed to start server: 2 UNKNOWN: Getting metadata from plugin failed with error: Request failed with status code 400
+2025-05-06 01:19:25 AM error: Failed to start server: 2 UNKNOWN: Getting metadata from plugin failed with error: Request failed with status code 400
+2025-05-06 01:19:44 AM error: Failed to start server: 2 UNKNOWN: Getting metadata from plugin failed with error: Request failed with status code 400
+2025-05-06 01:19:58 AM error: Failed to start server: 2 UNKNOWN: Getting metadata from plugin failed with error: Request failed with status code 400
+2025-05-06 01:21:25 AM error: Failed to start server: 2 UNKNOWN: Getting metadata from plugin failed with error: Request failed with status code 400
+2025-05-06 01:21:42 AM error: Failed to start server: 2 UNKNOWN: Getting metadata from plugin failed with error: Request failed with status code 400
+2025-05-06 01:22:15 AM error: Failed to start server: 2 UNKNOWN: Getting metadata from plugin failed with error: Request failed with status code 400
+2025-05-06 01:22:43 AM error: Failed to start server: 2 UNKNOWN: Getting metadata from plugin failed with error: Request failed with status code 400
+2025-05-06 01:23:00 AM error: Failed to start server: 2 UNKNOWN: Getting metadata from plugin failed with error: Request failed with status code 400
+2025-05-06 01:23:13 AM error: Failed to start server: 2 UNKNOWN: Getting metadata from plugin failed with error: Request failed with status code 400
+2025-05-06 01:24:15 AM error: Failed to start server: 2 UNKNOWN: Getting metadata from plugin failed with error: Request failed with status code 400
+2025-05-06 01:24:44 AM error: Failed to start server: 2 UNKNOWN: Getting metadata from plugin failed with error: Request failed with status code 400
+2025-05-06 01:29:21 AM error: Failed to start server: 2 UNKNOWN: Getting metadata from plugin failed with error: Request failed with status code 400
+2025-05-06 01:29:29 AM error: Failed to start server: 2 UNKNOWN: Getting metadata from plugin failed with error: Request failed with status code 400
+2025-05-06 01:31:23 AM error: Failed to start server: 2 UNKNOWN: Getting metadata from plugin failed with error: Request failed with status code 400
+2025-05-06 01:31:37 AM error: Failed to start server: 2 UNKNOWN: Getting metadata from plugin failed with error: Request failed with status code 400
+2025-05-06 01:31:51 AM error: Failed to start server: 2 UNKNOWN: Getting metadata from plugin failed with error: Request failed with status code 400
+2025-05-06 01:32:00 AM error: Failed to start server: 2 UNKNOWN: Getting metadata from plugin failed with error: Request failed with status code 400
+2025-05-06 01:32:11 AM error: Failed to start server: 2 UNKNOWN: Getting metadata from plugin failed with error: Request failed with status code 400
+2025-05-06 01:32:30 AM error: Failed to start server: 2 UNKNOWN: Getting metadata from plugin failed with error: Request failed with status code 400
+2025-05-06 01:32:41 AM error: Failed to start server: 2 UNKNOWN: Getting metadata from plugin failed with error: Request failed with status code 400
+2025-05-06 01:32:49 AM error: Failed to start server: 2 UNKNOWN: Getting metadata from plugin failed with error: Request failed with status code 400
+2025-05-06 01:33:09 AM error: Failed to start server: 2 UNKNOWN: Getting metadata from plugin failed with error: Request failed with status code 400
+2025-05-06 01:33:21 AM error: Failed to start server: 2 UNKNOWN: Getting metadata from plugin failed with error: Request failed with status code 400
+2025-05-06 01:33:43 AM error: Failed to start server: 2 UNKNOWN: Getting metadata from plugin failed with error: Request failed with status code 400
+2025-05-06 01:34:29 AM error: Failed to start server: 2 UNKNOWN: Getting metadata from plugin failed with error: Request failed with status code 400
+2025-05-06 01:34:49 AM error: Failed to start server: 2 UNKNOWN: Getting metadata from plugin failed with error: Request failed with status code 400
+2025-05-06 01:35:12 AM error: Failed to start server: 2 UNKNOWN: Getting metadata from plugin failed with error: Request failed with status code 400
+2025-05-06 01:35:34 AM error: Failed to start server: 2 UNKNOWN: Getting metadata from plugin failed with error: Request failed with status code 400
+2025-05-06 01:38:41 AM error: Failed to start server: 2 UNKNOWN: Getting metadata from plugin failed with error: Request failed with status code 400
+2025-05-06 02:21:07 AM error: Failed to start server: 2 UNKNOWN: Getting metadata from plugin failed with error: Request failed with status code 400
+2025-05-06 02:26:31 AM error: getLocationCountry: Error in getting country
+2025-05-06 02:26:31 AM error: [req_1746516390712_ts54vzxv] GET /locations/getCountry - Status: 500 - 906ms
+2025-05-06 02:26:32 AM error: getLocationCountry: Error in getting country
+2025-05-06 02:26:32 AM error: [req_1746516391624_trg1f78m] GET /locations/getCountry - Status: 500 - 1286ms
+2025-05-06 02:32:05 AM error: getLocationCountry: Error in getting country
+2025-05-06 02:32:05 AM error: [req_1746516722542_tdoaa2qi] GET /locations/getCountry - Status: 500 - 2621ms
+2025-05-06 02:32:05 AM error: getLocationCountry: Error in getting country
+2025-05-06 02:32:05 AM error: [req_1746516725169_52vzbg8x] GET /locations/getCountry - Status: 500 - 373ms
+2025-05-06 05:28:50 AM error: [process_tracking_1746527326425_gxndm8qf] TrackingDetails.processAllTrackingDetails completed in 3966ms
+2025-05-06 05:28:50 AM error: [process_tracking_1746527326425_gxndm8qf] Error processing all tracking details: totalProcessed is not defined
+2025-05-06 05:28:50 AM error: [invoice_1746527330464_q4wtod8a] CommercialInvoice.getCommercialInvoiceDetails completed in 1ms
+2025-05-06 05:28:50 AM error: [batch_1746527326416_sggqzwxw] Error in customer details sync process: processedCount is not defined
+2025-05-06 05:28:50 AM error: [batch_1746527326420_8ycpzwdq] CommercialInvoice.getCommercialInvoiceDetails completed in 1ms
+2025-05-06 05:28:51 AM error: [no-request-id] ShipmentService.updateShipmentDetails completed in 2592ms
+2025-05-06 05:30:47 AM error: [batch_1746527445154_wxf00i46] CommercialInvoice.getCommercialInvoiceDetails completed in 1ms
+2025-05-06 05:30:48 AM error: [customer_1746527447829_fjxt88ll] CustomerPackage.fetchShipmentDetailsById completed in 326ms
+2025-05-06 05:30:48 AM error: [shipment_info_1746527447911_9c7uku8c] ShipmentInfo.fetchShipmentInfo completed in 314ms
+2025-05-06 05:30:48 AM error: [shipment_info_1746527447911_9c7uku8c] ShipmentInfo.getShipmentInfoWithChanges completed in 316ms
+2025-05-06 05:30:48 AM error: [no-request-id] Failed to get shipment info for ID 39982
+2025-05-06 05:30:48 AM error: [no-request-id] ShipmentService.updateShipmentDetails completed in 317ms
+2025-05-06 05:30:48 AM error: [package_1746527448156_i3j4hv7c] CustomerPackage.fetchPackageDetailsById completed in 311ms
+2025-05-06 05:30:48 AM error: [batch_1746527445149_39dy6drc] CustomerPackage.getCustomerAndPackageDetails completed in 639ms
+2025-05-06 05:30:48 AM error: [batch_1746527445149_39dy6drc] Error in customer details sync process: processedCount is not defined
+2025-05-06 05:30:50 AM error: [tracking_1746527450032_vk2o24cj] TrackingDetails.fetchTrackingDetails completed in 308ms
+2025-05-06 05:30:50 AM error: [process_tracking_1746527445159_e7iqdadk_batch_1] TrackingDetails.getTrackingDetails completed in 310ms
+2025-05-06 05:30:50 AM error: [process_tracking_1746527445159_e7iqdadk] TrackingDetails.processAllTrackingDetails completed in 5183ms
+2025-05-06 05:30:50 AM error: [process_tracking_1746527445159_e7iqdadk] Error processing all tracking details: totalProcessed is not defined
+2025-05-06 05:36:03 AM error: [no-request-id] ShipmentService.updateShipmentDetails completed in 1876ms
+2025-05-06 05:37:19 AM error: [no-request-id] ShipmentService.updateShipmentDetails completed in 1965ms
+2025-05-06 05:42:24 AM error: [no-request-id] ShipmentService.updateShipmentDetails completed in 1831ms
+2025-05-06 05:43:27 AM error: [no-request-id] ShipmentService.updateShipmentDetails completed in 1864ms
+2025-05-06 07:10:11 AM error: [no-request-id] Failed to access secret backend (path: projects/285749978113/secrets/backend/versions/latest): Total timeout of API google.cloud.secretmanager.v1.SecretManagerService exceeded 60000 milliseconds retrying error Error: 14 UNAVAILABLE: Name resolution failed for target dns:secretmanager.googleapis.com:443  before any response was received.
+2025-05-06 07:11:20 AM error: [no-request-id] Error: Person details not found for username: poovarasannew after successful password match.
+2025-05-06 07:12:48 AM error: [no-request-id] Error: Person details not found for username: poovarasannew after successful password match.
+2025-05-07 03:36:04 AM error: [no-request-id] Failed to access secret backend (path: projects/285749978113/secrets/backend/versions/latest): 2 UNKNOWN: Getting metadata from plugin failed with error: Request failed with status code 400
+2025-05-07 03:40:02 AM error: [unknown] Error: Not allowed by CORS
+2025-05-07 03:42:35 AM error: [req_1746607352037_u51aztid] POST /payment/create-payment - Status: 500 - 3597ms
+2025-05-07 03:47:51 AM error: [req_1746607667463_5ykzy6vb] POST /payment/create-payment - Status: 500 - 3719ms
+2025-05-07 05:19:57 AM error: [req_1746613193904_h6jwrru0] POST /payment/create-payment - Status: 500 - 3690ms
+2025-05-07 05:25:05 AM error: [req_1746613501744_3ua2qssp] POST /payment/create-payment - Status: 500 - 3969ms
+2025-05-07 05:28:46 AM error: [req_1746613724003_a66l6vy3] POST /payment/create-payment - Status: 500 - 2279ms
+2025-05-07 05:33:06 AM error: Error in getmyShipmentsByIDData:
+2025-05-07 05:33:06 AM error: Error in get shipment by ID
+2025-05-07 05:33:06 AM error: [req_1746613962298_fesmviu1] POST /shipment/U2FsdGVkX19jPH7BSKsaHGBRbyu4wkVhzt%2BjtGvBFDS1VHnv4pZf5Azma76WBUnN - Status: 500 - 23856ms
+2025-05-08 02:10:06 AM error: Service Operation End: userService.UserLogin - Failure
+2025-05-08 04:23:13 AM error: [no-request-id] Failed to access secret backend (path: projects/285749978113/secrets/backend/versions/latest): 2 UNKNOWN: Getting metadata from plugin failed with error: Request failed with status code 400
+2025-05-08 04:23:42 AM error: [no-request-id] Failed to access secret backend (path: projects/285749978113/secrets/backend/versions/latest): 2 UNKNOWN: Getting metadata from plugin failed with error: Request failed with status code 400
+2025-05-08 12:16:26 PM error: Error calling stored procedure in getcountry:
+2025-05-08 12:16:26 PM error: Service Operation End: locationService.getcountry - Failure
+2025-05-08 12:16:26 PM error: Error in getting country
+2025-05-08 12:16:26 PM error: Request End
+2025-05-09 05:51:37 AM error: [no-request-id] Failed to access secret backend (path: projects/285749978113/secrets/backend/versions/latest): 2 UNKNOWN: Getting metadata from plugin failed with error: Request failed with status code 400
+2025-05-11 02:54:12 AM error: Service Operation End: userService.UserLogin - Failure
+2025-05-11 04:38:36 PM error: Unhandled Error Cannot set property clientIp of #<IncomingMessage> which has only a getter
+2025-05-11 04:47:09 PM error: Unhandled Error Cannot set property clientIp of #<IncomingMessage> which has only a getter
+2025-05-11 04:56:14 PM error: Unhandled Error Cannot set property clientIp of #<IncomingMessage> which has only a getter
+2025-05-11 04:59:59 PM error: Unhandled Error Cannot assign to read only property 'clientIp' of object '#<IncomingMessage>'
+2025-05-11 04:59:59 PM error: Final error handler

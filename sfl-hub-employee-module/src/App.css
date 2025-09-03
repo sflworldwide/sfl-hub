@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+}
+
+
+.special-label {
+    font-size: smaller;
+    color: #757575;
+    margin-bottom: 6px;
+  }
+  

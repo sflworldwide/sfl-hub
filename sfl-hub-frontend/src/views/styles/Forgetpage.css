@@ -1,0 +1,42 @@
+/* textfield css */
+.custom-textfield
+{
+    text-align: left;
+}
+
+.custom-textfield .MuiOutlinedInput-root fieldset {
+    border-color: gray;
+  }
+  
+  .custom-textfield .MuiOutlinedInput-root:hover fieldset {
+    border-color: #1976d2;
+  }
+  
+  .custom-textfield .MuiOutlinedInput-root.Mui-focused fieldset {
+    border-color: #1976d2;
+  }
+  
+  .custom-textfield .MuiInputLabel-root {
+    color: gray;
+  }
+  
+  .custom-textfield .MuiInputLabel-root.Mui-focused {
+    color: #1976d2;
+  }
+  
+  /* Dropdown menu items */
+  .custom-select-menu .MuiMenuItem-root {
+    padding: 8px 16px;
+    
+  }
+  
+  .custom-select-menu .MuiMenuItem-root:hover {
+    background-color: #1565c0;
+    color: white;
+  }
+  
+  .custom-select-menu .Mui-selected {
+    background-color: #1565c0 !important;
+    color: white;
+  }
+  
